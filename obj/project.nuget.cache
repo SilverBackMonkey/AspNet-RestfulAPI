@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "hkhd6+vXvsWT/2/bpEFoMGMrxQ2LlioR6tb/0A0vsajLvei4eC+moCdkz9rXQuf8RRqf/zyCJhk4100mIe9spA==",
+  "dgSpecHash": "R51DRzpIyeQXwVws1YiODOGNmSxKB5SdqhRb9b/clPldU3eZe7dJC4BHElQFH+SEKzrnrnB/Qc91ijV/rgb+MA==",
   "success": true,
-  "projectFilePath": "D:\\lionmarksham\\git\\dotnet\\MyWebApp\\MyWebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
