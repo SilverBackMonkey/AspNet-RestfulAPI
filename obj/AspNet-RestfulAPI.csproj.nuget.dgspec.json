@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj": {}
+    "D:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj": {}
   },
   "projects": {
-    "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj": {
+    "D:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj",
+        "projectUniqueName": "D:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj",
         "projectName": "AspNet-RestfulAPI",
-        "projectPath": "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj",
+        "projectPath": "D:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\AspNet-RestfulAPI.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "d:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\obj\\",
+        "outputPath": "D:\\lionmarksham\\git\\dotnet\\AspNet-RestfulAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
