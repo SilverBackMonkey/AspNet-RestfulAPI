@@ -7,5 +7,5 @@ public class Pizza
     public Boolean IsGlutenFree { get; set; }
 
     public string? Name { get; set; }
-
+    
 }

@@ -1,4 +1,4 @@
-namespace AspNet_RestfulAPI;
+namespace AspNet_RestfulAPI.Models;
 
 public class HelloMan
 {
